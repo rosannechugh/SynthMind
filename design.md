@@ -1,8 +1,8 @@
-# Design Document: FlowChart Social Media Content Scheduler
+# Design Document: FitPost Social Media Content Scheduler
 
 ## Overview
 
-FlowChart is an intelligent social media content management system that automates content adaptation, scheduling, and optimization across multiple platforms. The system architecture follows a modular design with clear separation between content processing, scheduling, analytics, and platform integration layers.
+FitPost is an intelligent social media content management system that automates content adaptation, scheduling, and optimization across multiple platforms. The system architecture follows a modular design with clear separation between content processing, scheduling, analytics, and platform integration layers.
 
 The system leverages AI/ML capabilities for content transformation, engagement prediction, and optimization. It provides a comprehensive workflow from content ingestion through publication and performance analysis, enabling content creators to maximize reach while minimizing manual effort.
 
@@ -934,7 +934,7 @@ The testing strategy employs both unit testing and property-based testing as com
 
 **Test Tagging Format**: Each property test must include a comment tag:
 ```typescript
-// Feature: flowchart-social-media-scheduler, Property 1: Content Storage Round-Trip Preservation
+// Feature: FitPost-social-media-scheduler, Property 1: Content Storage Round-Trip Preservation
 ```
 
 **Iteration Count**: Minimum 100 iterations per property test to ensure comprehensive coverage through randomization
@@ -1008,3 +1008,4 @@ tests/
 - Run property tests in CI/CD pipeline
 - Monitor test execution time and optimize slow tests
 - Maintain high code coverage (target: >80%)
+
