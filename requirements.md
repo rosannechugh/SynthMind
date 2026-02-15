@@ -1,8 +1,8 @@
-# Requirements Document: FlowChart Social Media Content Scheduler
+# Requirements Document: FitPost Social Media Content Scheduler
 
 ## Introduction
 
-FlowChart is an intelligent social media content scheduling and formatting system that dynamically adapts content across multiple platforms. The system leverages AI to automatically repurpose content, optimize posting schedules based on engagement data, and tailor formats to platform-specific characteristics. FlowChart enables content creators and digital marketers to maximize their content's reach and impact while minimizing manual effort.
+FitPost is an intelligent social media content scheduling and formatting system that dynamically adapts content across multiple platforms. The system leverages AI to automatically repurpose content, optimize posting schedules based on engagement data, and tailor formats to platform-specific characteristics. FitPost enables content creators and digital marketers to maximize their content's reach and impact while minimizing manual effort.
 
 ## Glossary
 
@@ -197,3 +197,4 @@ FlowChart is an intelligent social media content scheduling and formatting syste
 3. WHEN displaying analytics, THE System SHALL allow filtering by platform, date range, and content type
 4. THE System SHALL highlight top-performing content and underperforming content
 5. THE System SHALL provide export functionality for analytics data in standard formats
+
